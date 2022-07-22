@@ -61,7 +61,7 @@ img {
 .container {
   width: 1278px;
   margin: 0 auto;
-  border: 1px solid #f00;
+  /* border: 1px solid #f00; */
 }
 
 .btn {
@@ -211,6 +211,10 @@ img {
 .features {
   padding: 150px 0;
   background-color: rgba(75, 10, 100, 0.03);
+}
+
+.features-title {
+  display: none;
 }
 
 .features-list {
